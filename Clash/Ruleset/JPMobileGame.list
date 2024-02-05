@@ -1,0 +1,9 @@
+# 内容：日服手游列表
+
+# NIKKE:胜利女神
+USER-AGENT,nikke*
+DOMAIN-KEYWORD,nikke
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,iegcom.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,levelinfinite.com
