@@ -1,0 +1,9 @@
+# 内容：USCarrier
+# 说明：美国运营商地址集
+# 数量：6条
+DOMAIN-SUFFIX,mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,crl.t-mobile.com
+DOMAIN-SUFFIX,eas3.msg.t-mobile.com
+DOMAIN-SUFFIX,mascns.t-mobile.com
+DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
