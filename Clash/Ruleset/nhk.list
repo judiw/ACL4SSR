@@ -4,7 +4,4 @@ DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nhk.jp
 DOMAIN-SUFFIX,nhk-cs.jp
 DOMAIN-SUFFIX,nhknewsreal.akamaized.net
-DOMAIN-SUFFIX,web.nhk
-DOMAIN-SUFFIX,tools.nhk
-DOMAIN-SUFFIX,st.nhk
-DOMAIN-SUFFIX,ac1.nhk
+DOMAIN-WILDCARD,*.nhk
